@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="_source_8cpp" kind="file"><name>Source.cpp</name>
+    <member refid="_source_8cpp_1ab02a1f7a5c38242f27aa62b8756fffe5" kind="variable"><name>AIDifficulty</name></member>
+    <member refid="_source_8cpp_1a9da0fc25d7a6bfdfce4893655036c0bc" kind="variable"><name>input2</name></member>
+    <member refid="_source_8cpp_1aadbf03975135869a2790a416962121d9" kind="variable"><name>runCount</name></member>
+    <member refid="_source_8cpp_1a8fb4e4efaec04cd06f2ca6cecdae3f14" kind="variable"><name>mapWriteCount</name></member>
+    <member refid="_source_8cpp_1af53cb8831323c41857a6fcb3338d5da5" kind="variable"><name>pathSection</name></member>
+    <member refid="_source_8cpp_1ad0da36b2558901e21e7a30f6c227a45e" kind="variable"><name>x</name></member>
+    <member refid="_source_8cpp_1aa4f0d3eebc3c443f9be81bf48561a217" kind="variable"><name>y</name></member>
+    <member refid="_source_8cpp_1a76777b356ab2a080225682528119c4fe" kind="variable"><name>position</name></member>
+    <member refid="_source_8cpp_1ad095d97f497157b17bb4d6ef7373ca29" kind="variable"><name>AIPosition</name></member>
+    <member refid="_source_8cpp_1af7cad35aa8f546b41f3ae0dcc66e236c" kind="variable"><name>AIYPosition</name></member>
+    <member refid="_source_8cpp_1aaf161887666f0e3733b6d9153c47f9e7" kind="variable"><name>AIXPosition</name></member>
+    <member refid="_source_8cpp_1a4b007a8ca9d4bd9b444796679a10290f" kind="variable"><name>DeadZones</name></member>
+    <member refid="_source_8cpp_1aed29cd10adfbc75fa4de56f897e452e5" kind="variable"><name>AIPath</name></member>
+    <member refid="_source_8cpp_1a0d81ae357892b96dda808e13e2596d5f" kind="variable"><name>nextPath</name></member>
+    <member refid="_source_8cpp_1a553a3ebce52098537a6c23da68c08c02" kind="variable"><name>mapInput</name></member>
+    <member refid="_source_8cpp_1a38deedb02dcebac366f97a0879b3be5b" kind="variable"><name>input</name></member>
+    <member refid="_source_8cpp_1a991cbe3d6b3162a30b540fa5b28cdca0" kind="variable"><name>XorY</name></member>
+    <member refid="_source_8cpp_1a2c2a512cd32842742d7f2b87c3ee60cb" kind="variable"><name>added</name></member>
+    <member refid="_source_8cpp_1a85422213cfd87f34e2b9d723a4389dc8" kind="variable"><name>positionDone</name></member>
+    <member refid="_source_8cpp_1afb19276ed6eed3dec9b586447d9652e0" kind="variable"><name>writePathDone</name></member>
+    <member refid="_source_8cpp_1afba898a0e30ad8e98f2c22ab5d8dc312" kind="variable"><name>menuDone</name></member>
+    <member refid="_source_8cpp_1a43ae00784b16b5bd2fa7320aff77fdad" kind="function"><name>noNoAreas</name></member>
+    <member refid="_source_8cpp_1aab71e43233c0bb41334ffc0e35400cf4" kind="function"><name>AIEasyDifficultyPath</name></member>
+    <member refid="_source_8cpp_1a577dc0d6f138eeec92c0c13c052c3b73" kind="function"><name>AINormalDifficultyPath</name></member>
+    <member refid="_source_8cpp_1a5b3fcf3a700ba700265cf3ed21294d4e" kind="function"><name>AIHardDifficultyPath</name></member>
+    <member refid="_source_8cpp_1a0c9c581b7b4d6dd7cf125253e398d621" kind="function"><name>writePath</name></member>
+    <member refid="_source_8cpp_1a60de64d75454385b23995437f1d72669" kind="function"><name>start</name></member>
+    <member refid="_source_8cpp_1a28af16941c845fe85c0ad486f67928c1" kind="function"><name>setDifficulty</name></member>
+    <member refid="_source_8cpp_1ac1b66fe77173de9e5e8542b2823d6071" kind="function"><name>info</name></member>
+    <member refid="_source_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="dir_80d2c688a30d5b880645e65b61587c07" kind="dir"><name>C:/Users/optim/source/repos/Captian Sonar AI/Captian Sonar AI</name>
+  </compound>
+  <compound refid="dir_b11e3474f8ae1cf943fb169d9e4c755b" kind="dir"><name>C:/Users/optim/source/repos/Captian Sonar AI</name>
+  </compound>
+  <compound refid="dir_0f435ae143e9a47a64d634af5c866871" kind="dir"><name>C:/Users/optim</name>
+  </compound>
+  <compound refid="dir_82f4bd80a7f84db2996bc8c154058ecb" kind="dir"><name>C:/Users/optim/source/repos</name>
+  </compound>
+  <compound refid="dir_93712cef5e70e2c175e659d3b95b8b91" kind="dir"><name>C:/Users/optim/source</name>
+  </compound>
+  <compound refid="dir_8ceffd4ee35c3518d4e8bdc7e638efe8" kind="dir"><name>C:/Users</name>
+  </compound>
+</doxygenindex>
