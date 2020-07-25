@@ -2585,7 +2585,7 @@ void mapTypes() { // Starts the map setup process
 				cout << "\nPress x anytime to exit this menu"
 					<< "\nPress s to save map to battle plan"
 					<< "\nPress c to clear saved map";
-				if (num < 0 || num >= mapNumber) { if (!LEFTRIGHT) { num++; } else { num--; } cout << "\NO MORE MAPS"; givenInput = true; }
+				if (num < 0 || num >= mapNumber) { if (!LEFTRIGHT) { num++; } else { num--; } cout << "\nNO MORE MAPS"; givenInput = true; }
 				while (!givenInput) {
 					if (_kbhit()) {
 						switch (_getch())
@@ -2701,6 +2701,14 @@ void mapTypes() { // Starts the map setup process
 }
 void info() {
 	cout << "            Info      " << endl; // TODO Set up info
+	cout << "\nHow to play:"
+		<< "\nChoose a map in the menu or create your own map. This can also be done after entering start"
+		<< "\nOpen space = *"
+		<< "\nClosed space = -"
+		<< "\n\nTo interact with the AI use arrow keys or WASD for north, south, west, east"
+		<< "\nTo stop the AI for surfacing or anything else press x" 
+		<< "\n\nIn the customize menu you are able to change everything about the game."
+		<< "\nHow fast each AI reacts or each AI difficulty" << endl;
 	system("pause");
 	system("cls");
 }
@@ -2731,6 +2739,7 @@ int main() {
 				<< "\n\nPress c to customize game"
 				<< "\n\nPress m to set map"
 				<< "\n\nPress x to exit the program\n\n";
+			cout << "Choice > ";
 			cin >> input;
 			if (input == 's' || input == 'S') {
 				int num = 1;

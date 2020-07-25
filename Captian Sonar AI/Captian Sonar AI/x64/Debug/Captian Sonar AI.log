@@ -1,0 +1,14 @@
+﻿  Source.cpp
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(487): warning C4101: 'AIXPosition': unreferenced local variable
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(486): warning C4101: 'AIYPosition': unreferenced local variable
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(670): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(867): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(1100): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(1492): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(2122): warning C4101: 'input': unreferenced local variable
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(2588): warning C4129: 'N': unrecognized character escape sequence
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(2725): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(177): warning C4715: 'grabSectorY': not all control paths return a value
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(166): warning C4715: 'grabSectorX': not all control paths return a value
+a:\documents\github\captian-sonar-ai\captian sonar ai\captian sonar ai\source.cpp(292): warning C4715: 'sectorPositions': not all control paths return a value
+  Captian Sonar AI.vcxproj -> A:\Documents\GitHub\Captian-Sonar-AI\Captian Sonar AI\x64\Debug\Captian Sonar AI.exe
