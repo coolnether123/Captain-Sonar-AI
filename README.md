@@ -1,5 +1,5 @@
 # Captian-Sonar-AI
- This is a c++ program that simulates an AI playing one team of the board game Captain Sonar.
+ This is a c++ program using Visual Studio 2017 that simulates an AI playing one team of the board game Captain Sonar.
  
  This program was made for a final in my first c++ class. I went maybe a little overboard with creating it but i wanted to make an AI for captain sonar since only two people I knew would play it. I worked on this project for maybe 4 weeks and stayed up many nights solving problems.
  
